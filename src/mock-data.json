@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "fullName": "Phone",
+    "count": "2",
+    "company": "Apple",
+    "weight": "100",
+    "imageUrl": "some url here",
+    "size": {
+      "width" : 200,
+      "height" : 200
+    },
+     "comments": ["CommentModel", "CommentModel"]
+  },
+  {
+    "id": 2,
+    "fullName": "Shoes",
+    "count": "2",
+    "company": "Nike",
+    "weight": "450",
+    "imageUrl": "some url here",
+    "size": {
+      "width" : 200,
+      "height" : 200
+    },
+     "comments": ["CommentModel", "CommentModel"]
+  },
+  {
+    "id": 3,
+    "fullName": "T-Shirt",
+    "count": "2",
+    "company": "Nike",
+    "weight": "100",
+    "imageUrl": "some url here",
+    "size": {
+      "width" : 200,
+      "height" : 200
+    },
+     "comments": ["CommentModel", "CommentModel"]
+  },
+  {
+    "id": 4,
+    "fullName": "Laptop",
+    "count": "2",
+    "company": "Apple",
+    "weight": "2000",
+    "imageUrl": "some url here",
+    "size": {
+      "width" : 200,
+      "height" : 200
+    },
+     "comments": ["CommentModel", "CommentModel"]
+  },
+  {
+    "id": 5,
+    "fullName": "Headphones",
+    "count": "2",
+    "company": "Apple",
+    "weight": "30",
+    "imageUrl": "some url here",
+    "size": {
+      "width" : 200,
+      "height" : 200
+    },
+     "comments": ["CommentModel", "CommentModel"]
+  }
+]
